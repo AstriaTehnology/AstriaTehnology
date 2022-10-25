@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AstriaTehnology Developer & Founder
-- 👀 I’m interested in Coding & Developing Apps Sistems
-- 🌱 I’m currently learning NodeJS & Ubuntu Sistems
-- 💞️ I’m looking to collaborate on big organizations
-- 📫 How to reach me Contact@astria.xyz & Dev@astria.xyz
-
-<!---
-AstriaTehnology/AstriaCleint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center"> 💫 Astria Client</h1>
+<p align="center">
+An open-source and lightweight launcher for Minecraft<br>
+<em>Astria Client is <b align="center">under development</b>, come to <a href="https://discord.gg/YV3PqQqZsY">
+Discord server
+</a> and check the progress</em>
+<br><br>
+<img src="./src/assets/images/launcher.png" width="768px" align="center">
+<a align="center" href="https://www.buymeacoffee.com/flexberryapp"><img src="https://img.buymeacoffee.com/button-api/?text=Support Flexberry Launcher&emoji=✨&slug=flexberryapp&button_colour=841ee0&font_colour=ffffff&font_family=Poppins&outline_colour=dbbcf6&coffee_colour=dbbcf6" /></a>
